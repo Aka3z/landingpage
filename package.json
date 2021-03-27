@@ -1,0 +1,13 @@
+{
+  "name": "Landingpage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "homepage": "https://aka3z.github.io/landingpage",
+  "author": "",
+  "license": "ISC"
+}
